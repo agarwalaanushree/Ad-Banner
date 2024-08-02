@@ -1,0 +1,77 @@
+{
+    "ads": [
+      {
+        "id": 1,
+        "title": "Discover the New You - Limited Time Offer!",
+        "description": "Unleash a refreshed version of yourself with our exclusive lifestyle collection. Enjoy a special 20% off on all items and explore the latest trends designed to elevate your style. Visit our website to discover more and shop now!",
+        "image": "/images/img1.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "New Season Super Sale - Up to 50% Off!",
+        "description": "Refresh your wardrobe with our exciting new season collection! Enjoy discounts of up to 50% on a wide range of stylish items. Don't miss out on this limited-time super sale. Shop now and elevate your fashion game with the latest trends!",
+        "image": "/images/img2.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Super Offer: Big Savings and Free Shipping!",
+        "description": "Enjoy discounts of up to 50% off on a wide range of products! Plus, get free shipping on purchases over $200. Shop now and save big!",
+        "image": "/images/img3.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Big Sale - Up to 50% Off!",
+        "description": "Take advantage of our Big Sale with discounts up to 50% on your favorite items. Plus, enjoy free shipping on purchases over $200. Shop now to grab the best deals and upgrade your wardrobe with the latest fashion trends!",
+        "image": "/images/img4.jpg" 
+      },
+      {
+        "id": 5,
+        "title": "Discover the New You - Limited Time Offer!",
+        "description": "Unleash a refreshed version of yourself with our exclusive lifestyle collection. Enjoy a special 20% off on all items and explore the latest trends designed to elevate your style. Visit our website to discover more and shop now!",
+        "image": "/images/img1.jpg" 
+      },
+      {
+        "id": 6,
+        "title": "New Season Super Sale - Up to 50% Off!",
+        "description": "Refresh your wardrobe with our exciting new season collection! Enjoy discounts of up to 50% on a wide range of stylish items. Don't miss out on this limited-time super sale. Shop now and elevate your fashion game with the latest trends!",
+        "image": "/images/img2.jpg" 
+      },
+      {
+        "id": 7,
+        "title": "Super Offer: Big Savings and Free Shipping!",
+        "description": "Enjoy discounts of up to 50% off on a wide range of products! Plus, get free shipping on purchases over $200. Shop now and save big!",
+        "image": "/images/img3.jpg" 
+      },
+      {
+        "id": 8,
+        "title": "Big Sale - Up to 50% Off!",
+        "description": "Take advantage of our Big Sale with discounts up to 50% on your favorite items. Plus, enjoy free shipping on purchases over $200. Shop now to grab the best deals and upgrade your wardrobe with the latest fashion trends!",
+        "image": "/images/img4.jpg" 
+      },
+      {
+        "id": 9,
+        "title": "Discover the New You - Limited Time Offer!",
+        "description": "Unleash a refreshed version of yourself with our exclusive lifestyle collection. Enjoy a special 20% off on all items and explore the latest trends designed to elevate your style. Visit our website to discover more and shop now!",
+        "image": "/images/img1.jpg" 
+      },
+      {
+        "id": 10,
+        "title": "New Season Super Sale - Up to 50% Off!",
+        "description": "Refresh your wardrobe with our exciting new season collection! Enjoy discounts of up to 50% on a wide range of stylish items. Don't miss out on this limited-time super sale. Shop now and elevate your fashion game with the latest trends!",
+        "image": "/images/img2.jpg" 
+      },
+      {
+        "id": 11,
+        "title": "Super Offer: Big Savings and Free Shipping!",
+        "description": "Enjoy discounts of up to 50% off on a wide range of products! Plus, get free shipping on purchases over $200. Shop now and save big!",
+        "image": "/images/img3.jpg" 
+      },
+      {
+        "id": 12,
+        "title": "Big Sale - Up to 50% Off!",
+        "description": "Take advantage of our Big Sale with discounts up to 50% on your favorite items. Plus, enjoy free shipping on purchases over $200. Shop now to grab the best deals and upgrade your wardrobe with the latest fashion trends!",
+        "image": "/images/img4.jpg" 
+      }
+    ]
+  }
+  
